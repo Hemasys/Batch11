@@ -1,0 +1,14 @@
+git clone https://github.com/Hemasys/batch11.git
+ls
+cd batch11
+ls
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "sample file" file1
+git status
+git log
+git show cid
+git push
